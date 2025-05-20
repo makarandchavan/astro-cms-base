@@ -1,0 +1,12 @@
+{
+  "name": "makarandchavan/astro-cms-base",
+  "type": "drupal-custom-project",
+  "autoload": {
+    "psr-4": {
+      "Drupal\\": "modules/"
+    }
+  },
+  "extra": {
+    "installer-name": "common-drupal-components"
+  }
+}
